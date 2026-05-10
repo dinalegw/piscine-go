@@ -246,7 +246,7 @@ MIT License — see [LICENSE](LICENSE) file for details.
 
 ```
 MIT License
-Copyright (c) 2024-2025 dinalegw
+Copyright (c) 2026 dinalegw
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
